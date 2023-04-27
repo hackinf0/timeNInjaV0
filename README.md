@@ -1,1 +1,1 @@
-## Openshop Analytics Dashboard
+# This is the repository of the time Ninja Time Management App.
